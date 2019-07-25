@@ -1,0 +1,17 @@
+[結果]
+Battle1で敗北
+
+<Player1>
+名前:none
+職業:none
+残りHP:0
+
+<Player2>
+名前:none
+職業:none
+残りHP:0
+
+<Player3>
+名前:none
+職業:none
+残りHP:0
